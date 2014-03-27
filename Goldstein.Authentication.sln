@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goldstein.Authentication.Services", "Goldstein.Authentication.Services\Goldstein.Authentication.Services.csproj", "{DF1BE52F-04DF-49B9-B0B0-3FCC351CD66E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goldstein.Authentication.Infrastructure", "Goldstein.Authentication.Infrastructure\Goldstein.Authentication.Infrastructure.csproj", "{D121E112-FEB4-4C70-AB5A-C74A7B14EA35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goldstein.Authentication.Installer", "Goldstein.Authentication.Installer\Goldstein.Authentication.Installer.csproj", "{990C8429-2F91-498B-A7C9-106EE484170C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goldstein.Authentication.Web", "Goldstein.Authentication.Web\Goldstein.Authentication.Web.csproj", "{DB6ECAAE-EF15-4D1B-8A61-D2760524AD48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goldstein.Authentication.Domain", "Goldstein.Authentication.Domain\Goldstein.Authentication.Domain.csproj", "{81C247C8-865C-4C51-81C1-8605A43C6BEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goldstein.Authentication.Test", "Goldstein.Authentication.Test\Goldstein.Authentication.Test.csproj", "{7C4A0504-E1DE-4AE9-8D74-282ECC00D0FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF1BE52F-04DF-49B9-B0B0-3FCC351CD66E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF1BE52F-04DF-49B9-B0B0-3FCC351CD66E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF1BE52F-04DF-49B9-B0B0-3FCC351CD66E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF1BE52F-04DF-49B9-B0B0-3FCC351CD66E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D121E112-FEB4-4C70-AB5A-C74A7B14EA35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D121E112-FEB4-4C70-AB5A-C74A7B14EA35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D121E112-FEB4-4C70-AB5A-C74A7B14EA35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D121E112-FEB4-4C70-AB5A-C74A7B14EA35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{990C8429-2F91-498B-A7C9-106EE484170C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{990C8429-2F91-498B-A7C9-106EE484170C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{990C8429-2F91-498B-A7C9-106EE484170C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{990C8429-2F91-498B-A7C9-106EE484170C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB6ECAAE-EF15-4D1B-8A61-D2760524AD48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB6ECAAE-EF15-4D1B-8A61-D2760524AD48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB6ECAAE-EF15-4D1B-8A61-D2760524AD48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB6ECAAE-EF15-4D1B-8A61-D2760524AD48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81C247C8-865C-4C51-81C1-8605A43C6BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81C247C8-865C-4C51-81C1-8605A43C6BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81C247C8-865C-4C51-81C1-8605A43C6BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81C247C8-865C-4C51-81C1-8605A43C6BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C4A0504-E1DE-4AE9-8D74-282ECC00D0FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C4A0504-E1DE-4AE9-8D74-282ECC00D0FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C4A0504-E1DE-4AE9-8D74-282ECC00D0FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C4A0504-E1DE-4AE9-8D74-282ECC00D0FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
